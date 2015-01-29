@@ -1,0 +1,11 @@
+
+Projet Mopsi
+Deadline : Dimanche
+Modifier best_bin à l’aide de la doc // Thomas
+Empecher que les descripteurs ne soient comptés 2 fois  // Charles
+Après filtrage, rendre la recherche dans l’arbre plus rapide ( si il n’y a pas de fils on arrête de chercher) // à deux
+Automatiser l’entrée des images dans la bases // Thomas 
+enregistrer la base de données. // Thomas
+
+
+
